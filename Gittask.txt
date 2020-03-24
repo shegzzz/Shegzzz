@@ -1,0 +1,6 @@
+FullName:Adeyeye Olusegun TImilehin
+Email: adeyeye.timilehin1@gmail.com
+Slack Username: Shegzzz
+Courses: Frontend--> HTML, CSS, JAVASCRIPT
+	 Backend-->  Python
+	 Coding
